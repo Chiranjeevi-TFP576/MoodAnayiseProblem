@@ -1,0 +1,15 @@
+D:\Bridgelabs\MoodAnalyserCheckProblem\MoodAnalyserCheckProblem\bin\Debug\net6.0\MoodAnalyserCheckProblem.exe
+D:\Bridgelabs\MoodAnalyserCheckProblem\MoodAnalyserCheckProblem\bin\Debug\net6.0\MoodAnalyserCheckProblem.deps.json
+D:\Bridgelabs\MoodAnalyserCheckProblem\MoodAnalyserCheckProblem\bin\Debug\net6.0\MoodAnalyserCheckProblem.runtimeconfig.json
+D:\Bridgelabs\MoodAnalyserCheckProblem\MoodAnalyserCheckProblem\bin\Debug\net6.0\MoodAnalyserCheckProblem.dll
+D:\Bridgelabs\MoodAnalyserCheckProblem\MoodAnalyserCheckProblem\bin\Debug\net6.0\MoodAnalyserCheckProblem.pdb
+D:\Bridgelabs\MoodAnalyserCheckProblem\MoodAnalyserCheckProblem\obj\Debug\net6.0\MoodAnalyserCheckProblem.csproj.AssemblyReference.cache
+D:\Bridgelabs\MoodAnalyserCheckProblem\MoodAnalyserCheckProblem\obj\Debug\net6.0\MoodAnalyserCheckProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bridgelabs\MoodAnalyserCheckProblem\MoodAnalyserCheckProblem\obj\Debug\net6.0\MoodAnalyserCheckProblem.AssemblyInfoInputs.cache
+D:\Bridgelabs\MoodAnalyserCheckProblem\MoodAnalyserCheckProblem\obj\Debug\net6.0\MoodAnalyserCheckProblem.AssemblyInfo.cs
+D:\Bridgelabs\MoodAnalyserCheckProblem\MoodAnalyserCheckProblem\obj\Debug\net6.0\MoodAnalyserCheckProblem.csproj.CoreCompileInputs.cache
+D:\Bridgelabs\MoodAnalyserCheckProblem\MoodAnalyserCheckProblem\obj\Debug\net6.0\MoodAnalyserCheckProblem.dll
+D:\Bridgelabs\MoodAnalyserCheckProblem\MoodAnalyserCheckProblem\obj\Debug\net6.0\refint\MoodAnalyserCheckProblem.dll
+D:\Bridgelabs\MoodAnalyserCheckProblem\MoodAnalyserCheckProblem\obj\Debug\net6.0\MoodAnalyserCheckProblem.pdb
+D:\Bridgelabs\MoodAnalyserCheckProblem\MoodAnalyserCheckProblem\obj\Debug\net6.0\MoodAnalyserCheckProblem.genruntimeconfig.cache
+D:\Bridgelabs\MoodAnalyserCheckProblem\MoodAnalyserCheckProblem\obj\Debug\net6.0\ref\MoodAnalyserCheckProblem.dll
